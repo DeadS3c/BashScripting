@@ -1,0 +1,4 @@
+#!/bin/bash
+
+url="cheat.sh/$(urlencode "$*")"
+curl -sS $url
