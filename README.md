@@ -16,5 +16,5 @@ Collection of scripts to learn bash scripting from the beginning in a structured
 - [Functions](./Functions): Collection of scripts to learn how functions work in bash
 - [Scripts](./Scripts): Collection of scripts separated in:
   - [Basic](./Scripts/Basic): Day to day scripts
-  - [Pentest](./Scripts/Pentest): Useful scripts for pentesting
+  - [Pentest](./Scripts/Pentesting): Useful scripts for pentesting
 - [Exercises](./Exercises): Collection of scripts as a resolution of the exercises proposed
